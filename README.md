@@ -16,3 +16,4 @@ This program forces the exe file to run with admin rights
 # Important!
 
 Remeber to NOT drag the bat file to the exe file but the oposite
+Remeber that it doesnt work with all programs but it works with the most
