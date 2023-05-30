@@ -11,3 +11,8 @@ This prgram forces the exe file to run with admin rights
 1. Download the adminbypass.bat and drag it on your desktop
 2. Drag the program you want to run onto the adminbypass.bat
 3. And now you can run a program with admin rights without admin password
+
+
+# Important!
+
+Remeber to NOT drag the bat file to the exe file but the oposite
