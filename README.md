@@ -4,7 +4,7 @@
 # What to Use for
 
 You can use it for installers for example that require admin password to install.
-This prgram forces the exe file to run with admin rights
+This program forces the exe file to run with admin rights
 
 # How to use?
 
